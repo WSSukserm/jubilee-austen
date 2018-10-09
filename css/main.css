@@ -36,7 +36,7 @@ header {
 
 header h1 {
     font-family: 'Lora', serif;
-    font-size: 35px;
+    font-size: 30px;
     color: #bbC085;
     padding: 65px 0 65px 25px;
 }
@@ -62,7 +62,7 @@ header h2 {
   width: 1000px;
   clear: both;
   font-family: 'Lora', serif;
-  font-size: 70px;
+  font-size: 72px;
   line-height: 80px;
   color: #9b9b9b;
   padding: 20px 0 20px 25px;
